@@ -1,4 +1,2 @@
 # projekGrafkom
-# splasPage
-# labrin
-# Colision
+
